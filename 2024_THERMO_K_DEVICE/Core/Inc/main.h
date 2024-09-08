@@ -96,7 +96,6 @@ void Error_Handler(void);
 #define STOP_OFF	HAL_GPIO_WritePin(STOP_GPIO_Port, STOP_Pin, DISABLE);
 
 
-
 /* USER CODE END Private defines */
 
 #ifdef __cplusplus
